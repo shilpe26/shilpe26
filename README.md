@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **shilpe26/shilpe26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Shilpe 👋 👩 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Undergraduate Sophomore Year Student currently undertaking a Bachelors's course in Computer Science and Engineering at the United College of Engineering and Research. 
+
+• My technical skills are primarily in Programming through Python and C, Web Designing, Front-End Web Development, Machine Learning
+
+• Open Source Contributor as Mentee for PClub Summer of Code
+
+## Contact Me ☎
+ - Mail me on [Gmail](mailto:shilpecsaxena9098@gmail.com)
+ - Connect me on [Linkedin](https://www.linkedin.com/in/shilpe-saxena-heartly-winner/)
+ - Visit my [Website](https://github.com/shilpe26)
