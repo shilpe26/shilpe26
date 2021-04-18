@@ -1,6 +1,6 @@
 
 # Hi, I'm Shilpe 👋 👩 💻
-<img src="https://github.com/shilpe26/shilpe26/blob/master/shilpe.png">
+<img src="https://github.com/shilpe26/shilpe26/blob/master/shilpe_saxena.png">
 
 
 👩‍🎓 I'm an Undergraduate Sophomore Year Student currently undertaking a Bachelors's course in Computer Science and Engineering at the United College of Engineering and Research. 
