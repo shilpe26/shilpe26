@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Shilpe 👋 👩 💻
-<img src="https://github.com/shilpe26/shilpe26/blob/master/shilpe's%20image.png">
+<img src="https://github.com/shilpe26/shilpe26/blob/master/shilpe.png">
 
 
 👩‍🎓 I'm an Undergraduate Sophomore Year Student currently undertaking a Bachelors's course in Computer Science and Engineering at the United College of Engineering and Research. 
