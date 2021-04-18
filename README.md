@@ -1,5 +1,3 @@
-### 👋
-
 
 # Hi, I'm Shilpe 👋 👩 💻
 <img src="https://github.com/shilpe26/shilpe26/blob/master/shilpe.png">
