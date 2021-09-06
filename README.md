@@ -3,9 +3,9 @@
 <img src="https://github.com/shilpe26/shilpe26/blob/master/shilpe_saxena.png">
 
 
-👩‍🎓 I'm an Undergraduate Sophomore Year Student currently undertaking a Bachelors's course in Computer Science and Engineering at the United College of Engineering and Research. 
+👩‍🎓 I'm an Undergraduate Final Year Student currently undertaking a Bachelors's course in Computer Science and Engineering at the United College of Engineering and Research. 
 
-👩‍💻• My technical skills are primarily in Programming through C, Java, Python and a huge interest in Web Designing, Front-End Web Development, and Machine Learning
+👩‍💻• My technical skills are primarily in Programming through Java and a huge interest in Web Designing, Front-End Web Development, and Machine Learning
 
 👩‍💻• Open Source Contributor as Mentee for PClub Summer of Code
 
