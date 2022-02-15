@@ -12,4 +12,4 @@
 ## Contact Me ☎
  -📧 Mail me on [Gmail](mailto:shilpecsaxena9098@gmail.com)
  -🔗 Connect me on [Linkedin](https://www.linkedin.com/in/shilpe-saxena-heartly-winner/)
- -💖 Visit my [Portfolio](https://cranky-borg-b098d0.netlify.app/)
+ -💖 Visit my [Portfolio](https://personal-portfolioshilpe.netlify.app/)
