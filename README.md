@@ -3,11 +3,13 @@
 <img src="https://github.com/shilpe26/shilpe26/blob/master/shilpe_saxena.png">
 
 
-👩‍🎓 I'm Final Year Student currently undertaking a Bachelors's course in Computer Science and Engineering at the United College of Engineering and Research. 
+I'm an engineer in computer science.
 
-👩‍💻• My technical skills are primarily in Programming through Java and a huge interest in Web Designing, Front-End Web Development, and Machine Learning
+👩‍💻ReactJS, HTML, CSS, and JavaScript make up my tech stacks since I enjoy front-end web development.
+🎫 My personality is made more interesting by my non-technical interests, which include badminton and learning new things.
+🎫 Cynophile 🐶❤️
 
-👩‍💻• Open Source Contributor as Mentee for PClub Summer of Code
+🔖 Open Source Contributor as Mentee for PClub Summer of Code 2020
 
 ## Contact Me ☎
  -📧 Mail me on [Gmail](mailto:shilpecsaxena9098@gmail.com)
